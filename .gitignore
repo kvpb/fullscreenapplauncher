@@ -1,0 +1,29 @@
+# OS-generated files
+
+## Mac OS, Mac OS X, OS X & macOS
+
+.apdisk
+.AppleDB
+.AppleDesktop
+.AppleDouble
+.DS_Store
+.DS_Store?
+.LSOverride
+Network Trash Folder
+.Spotlight-V100
+Temporary Items
+.Trashes
+
+# Computer programs-generated files
+
+## EMACS
+
+#*#
+*~
+
+## VIm
+
+*.swp
+*.swo
+*.swn
+
